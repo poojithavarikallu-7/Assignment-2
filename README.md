@@ -16,6 +16,8 @@ These programs are beginner-friendly and demonstrate the use of loops, condition
 **Reverse Digit**s – Reverses the digits of a given number.
 
 
+
+
 **StudentDB – SQL Queries**
 
 This repository contains SQL scripts to create and manage a simple employee–department database.
