@@ -13,7 +13,7 @@ These programs are beginner-friendly and demonstrate the use of loops, condition
 
 **Sum of Digits** – Calculates the sum of all digits in a number.
 
-**Reverse Digit**s – Reverses the digits of a given number.
+**Reverse Digits** – Reverses the digits of a given number.
 
 
 
